@@ -1,4 +1,4 @@
 # hello-world
-hello world goodbye mars
+hello world
 
 Earth has better tacos than mars. Mars tacos taste like iron.
